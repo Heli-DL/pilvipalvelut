@@ -1,0 +1,12 @@
+body {
+  background-color: #dce7fc;
+  font-family: Roboto, sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+.container {
+  max-width: 960px;
+}
