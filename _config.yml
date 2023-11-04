@@ -13,7 +13,6 @@ url: https://heli-dl.github.io/pilvipalvelut/
 author:
   name: Heli De Lorme
   email: heli.de.lorme@myy.haaga-helia.fi
-photo: /assets/jpg/photo.jpg
 
 # social media links
 
@@ -21,10 +20,5 @@ social:
   github: Heli-DL
   linkedin: heli-de-lorme
 
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
+
 
