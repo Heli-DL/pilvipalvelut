@@ -22,7 +22,6 @@ social:
   github: Heli-DL
   linkedin: heli-de-lorme
 
-# build settings
 
 plugins:
   - jekyll-include-cache
