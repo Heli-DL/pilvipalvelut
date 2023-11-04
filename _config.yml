@@ -7,8 +7,6 @@ description:  Tervetuloa sivustolleni!
 taglong: Tervetuloa GitHub Pages-sivustolleni!
 tagshort: Tervetuloa sivustolleni!
 url: https://heli-dl.github.io/pilvipalvelut/
-baseurl: ""
-permalink: pretty
 
 # author settings
 
@@ -28,32 +26,9 @@ social:
 
 plugins:
   - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
 
-whitelist:
-  - jekyll-sitemap
 
-sass:
-  sass_dir: _sass
-  style: compressed
-  sourcemap: never
 
-feed:
-  path: atom.xml
-
-autopages:
-  enabled: false
-
-pagination:
-  enabled: true
-  per_page: 1
-  sort_reverse: true
-  permalink: /:num/
-  title: ":title &middot; Page :num"
 
 
 
