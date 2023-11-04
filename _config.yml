@@ -21,3 +21,10 @@ social:
   github: Heli-DL
   linkedin: heli-de-lorme
 
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
